@@ -1,0 +1,71 @@
+Computer Vision Annotation Tool (CVAT)
+https://github.com/opencv/cvat
+
+LabelImg
+https://github.com/tzutalin/labelImg
+
+Labelbox
+https://labelbox.com/blog/introducing-image-segmentation/
+
+How to Create High-Quality Annotated Training Data for Radiology AI?
+https://towardsdatascience.com/creating-high-quality-annotated-training-data-for-radiology-ai-d23ca4b85f00
+
+The best image annotation platforms for computer vision (+ an honest review of each)
+https://hackernoon.com/the-best-image-annotation-platforms-for-computer-vision-an-honest-review-of-each-dac7f565fea
+
+Introduction to Torch’s tensor library
+https://pytorch.org/tutorials/beginner/nlp/pytorch_tutorial.html
+
+PyTorch for Deep Learning and Computer Vision Course
+https://github.com/rslim087a/PyTorch-for-Deep-Learning-and-Computer-Vision-Course-All-Codes-
+
+CS231n Convolutional Neural Networks for Visual Recognition
+https://cs231n.github.io/convolutional-networks/
+
+Intutive explanation convnets
+https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+
+Neural Networks Intuitions: 2. Dot product, Gram Matrix and Neural Style Transfer
+https://towardsdatascience.com/neural-networks-intuitions-2-dot-product-gram-matrix-and-neural-style-transfer-5d39653e7916
+
+Visualising Filters and Feature Maps for Deep Learning
+https://towardsdatascience.com/visualising-filters-and-feature-maps-for-deep-learning-d814e13bd671
+
+Feature Visualization: How neural networks build up their understanding of images
+https://distill.pub/2017/feature-visualization/
+
+Convolutional Neural Network Visualizations
+https://github.com/utkuozbulak/pytorch-cnn-visualizations
+
+Artistic Style Transfer
+https://towardsdatascience.com/artistic-style-transfer-b7566a216431
+
+Neural Artistic Style Transfer: A Comprehensive Look
+https://medium.com/artists-and-machine-intelligence/neural-artistic-style-transfer-a-comprehensive-look-f54d8649c199
+
+Neural Style Transfer: Creating Art with Deep Learning using tf.keras and eager execution
+https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398
+
+TorchVision Object Detection Finetuning Tutorial
+https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html
+
+Convolutional Sentiment Analysis
+https://github.com/bentrevett/pytorch-sentiment-analysis/blob/master/4%20-%20Convolutional%20Sentiment%20Analysis.ipynb
+
+ConvNetJS: Deep Learning in your browser
+https://cs.stanford.edu/people/karpathy/convnetjs/
+
+NVIDIA AI PLAYGROUND
+https://www.nvidia.com/en-us/research/ai-playground/
+
+A Neural Network Playground - TensorFlow
+https://playground.tensorflow.org/
+
+Gramener & AI for Social Good
+https://gramener.com/aiforgood/
+
+A Tutorial on Torchtext
+http://anie.me/On-Torchtext/
+
+A Comprehensive Introduction to Torchtext (Practical Torchtext part 1)
+https://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/

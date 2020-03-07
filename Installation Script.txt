@@ -1,0 +1,9 @@
+conda create -n pytor -c anaconda python=3.7
+source activate pytor
+conda install pytorch torchvision cpuonly -c pytorch
+conda install -c anaconda scikit-learn matplotlib jupyter opencv cython
+conda install -c conda-forge spacy
+conda install -c pytorch torchtext
+conda install -c powerai sentencepiece
+#pip install sentencepiece
+python -m ipykernel install --user --name pytor
